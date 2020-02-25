@@ -1,0 +1,21 @@
+{
+    "name": "muxiaoqi/yii2-echarts",
+    "description": "echarts widget for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","echarts"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "muxiaoqi",
+            "email": "171084131@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "muxiaoqi\\echarts\\": ""
+        }
+    }
+}
